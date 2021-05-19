@@ -7,5 +7,5 @@
 
 
 - 🔭 I’m currently working on frontend projects
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning JS
 
