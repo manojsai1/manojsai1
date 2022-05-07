@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/max/1360/0*gqO3slLmGb4mUeje.gif)]
+<!-- [![MasterHead](https://miro.medium.com/max/1360/0*gqO3slLmGb4mUeje.gif)] -->
 <h1 align="center">Hello World, I'm Manoj 👋</h1>
 <h3 align="center">A Engineer trying to Figure-Out Stuff!!</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
