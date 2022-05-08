@@ -13,7 +13,7 @@
 - 📫 How to reach me **manojkoganti11@gmail.com**
 
 
-<h2>Connect with me<img align="center" src="https://github.com/VarunV991/VarunV991/blob/master/Assets/Handshake.gif" height="33px" /></h2> 
+<h2>Connect with me<img align="center" src="https://raw.githubusercontent.com/VarunV991/VarunV991/master/Assets/Handshake.gif" height="33px" /></h2> 
 <div align='center'> 
   <a href="https://www.linkedin.com/in/manojsai1/">
     <img align="left" alt="Varun | Linkedin" width="24px" src="https://github.com/VarunV991/VarunV991/blob/master/Assets/Linkedin.svg" />
