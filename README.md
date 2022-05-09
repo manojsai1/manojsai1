@@ -1,5 +1,5 @@
 <!-- [![MasterHead](https://miro.medium.com/max/1360/0*gqO3slLmGb4mUeje.gif)] -->
-<h1 align="center">Hello World, I'm Manoj 👋</h1>
+<h1 align="center">Hello World, I'm Manoj <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> </h1>
 <h3 align="center">A Engineer trying to Figure-Out Stuff!!</h3>
 <br> 
 
@@ -37,7 +37,7 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manojsai1&show_icons=true&locale=en" alt="manojsai1" /></p>
+<p>&nbsp;<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=manojsai1&show_icons=true&locale=en" alt="manojsai1" /></p>
 
 
 
