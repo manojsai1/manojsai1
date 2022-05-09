@@ -19,14 +19,6 @@
 
 
 
-<h2>Connect with me<img align="center" src="https://raw.githubusercontent.com/VarunV991/VarunV991/master/Assets/Handshake.gif" height="33px" /></h2> 
-<div align='center'> 
-  <a href="https://www.linkedin.com/in/manojsai1/">
-    <img align="left" alt="Varun | Linkedin" width="24px" src="https://github.com/VarunV991/VarunV991/blob/master/Assets/Linkedin.svg" />
-  </a>
-  <a href="mailto:manojkoganti11@gmail.com">
-    <img align="left" alt="Varun | Gmail" width="26px" src="https://github.com/VarunV991/VarunV991/blob/master/Assets/Gmail.svg" />
-  </a>
 
  <br> 
 
@@ -43,6 +35,17 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manojsai1&show_icons=true&locale=en&layout=compact" alt="manojsai1" /></p>
 
-<br>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=manojsai1&show_icons=true&locale=en" alt="manojsai1" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manojsai1&show_icons=true&locale=en" alt="manojsai1" /></p>
+
+
+
+<h2>Connect with me<img align="left " src="https://raw.githubusercontent.com/VarunV991/VarunV991/master/Assets/Handshake.gif" height="33px" /></h2> 
+<div align='left'> 
+  <a href="https://www.linkedin.com/in/manojsai1/">
+    <img align="left" alt="Varun | Linkedin" width="24px" src="https://github.com/VarunV991/VarunV991/blob/master/Assets/Linkedin.svg" />
+  </a>
+  <a href="mailto:manojkoganti11@gmail.com">
+    <img align="left" alt="Varun | Gmail" width="26px" src="https://github.com/VarunV991/VarunV991/blob/master/Assets/Gmail.svg" />
+  </a>
