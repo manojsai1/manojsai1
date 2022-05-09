@@ -1,6 +1,11 @@
 <!-- [![MasterHead](https://miro.medium.com/max/1360/0*gqO3slLmGb4mUeje.gif)] -->
-<h1 align="center">Hello World, I'm Manoj <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> </h1>
-<h3 align="center">A Engineer trying to Figure-Out Stuff!!</h3>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=000000&size=30&lines=Hello+World!+I'm+Manoj!+👋;I'm+a+Front+End+Developer)
+
+
+<!-- <h1 align="center">Hello World, I'm Manoj <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> </h1> -->
+
+<h3 align="cente">A Engineer trying to Figure-Out Stuff!!</h3>
 <br> 
 
 
@@ -19,10 +24,6 @@
 
 
 
-
- <br> 
-
-</div>
 
 <h3 align="left">Languages and Tools : &nbsp;&nbsp;&nbsp;&nbsp;<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px></h3> 
 <br> 
