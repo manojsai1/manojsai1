@@ -5,11 +5,14 @@
 
 <!-- <h1 align="center">Hello World, I'm Manoj <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> </h1> -->
 
-<h3 align="cente">A Engineer trying to Figure-Out Stuff!!</h3>
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+<h3 align="cente">An Engineer trying to Figure-Out Stuff!!</h3>
 <br> 
 
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 
 #### 🔭 I’m currently working on **[Crypto-price-tracker](https://trackcryptocurrency.netlify.app/)**
