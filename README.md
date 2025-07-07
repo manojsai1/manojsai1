@@ -15,7 +15,7 @@
 
 
 
-#### 🔭 I’m currently working on **[Crypto-price-tracker](https://trackcryptocurrency.netlify.app/)**
+#### 🔭 I’m currently working on **[Crypto-price-tracker](https://cryptospy.vercel.app/)**
  
 #### 🌱 I’m currently learning ***React***
 
